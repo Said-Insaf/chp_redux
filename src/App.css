@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.counter-container {
+  margin: 10% 30%;
+  padding: 5%;
+  border: 2px dashed black;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.counter {
+  margin: 10%;
+  font-size: 20px;
+}
